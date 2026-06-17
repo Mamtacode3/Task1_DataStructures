@@ -1,0 +1,29 @@
+LINKED LIST
+
+Operations:
+Insert 10
+Insert 20
+Insert 30
+Search 20
+Delete 10
+
+Output:
+Linked List: 10 20 30
+20 Found
+After Deletion: 20 30
+
+STACK
+
+Operations:
+Push 10
+Push 20
+Push 30
+Search 20
+Pop
+
+Output:
+Stack: 30 20 10
+20 Found
+Popped Element: 30
+After Pop: 20 10
+
